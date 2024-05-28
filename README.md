@@ -1,5 +1,3 @@
-# Video demo
+# LINK VIDEO DEMO
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/L04gEHGWVG8/mqdefault.jpg?sqp=CPzAzrAG&rs=AOn4CLDMHQQLBqGfiBivpJvmSKda2tJ95g&retry=1)](https://youtu.be/L04gEHGWVG8)
-
-
+[![LINK VIDEO DEMO NẰM Ở ĐÂY](https://img.youtube.com/vi/L04gEHGWVG8/0.jpg)](https://www.youtube.com/watch?v=L04gEHGWVG8)
